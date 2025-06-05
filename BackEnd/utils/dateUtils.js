@@ -1,0 +1,7 @@
+export const formatDate = (dateString) => {
+  const date = new Date(dateString);
+  const offset = date.getTimezoneOffset();
+  date.setMinutes(date.getMinutes() - offset);
+  return date.toISOString().split("T")[0];
+};
+module.exports = { formatDate };
