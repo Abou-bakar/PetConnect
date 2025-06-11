@@ -30,17 +30,17 @@ https://github.com/Abou-bakar/PetConnect.git
 - Update database credentials in `backend/config/db.js` (e.g., host, user, password).
 
 3. **Navigate to Project Directory**
-cd PetConnect
+- cd PetConnect
 
 4. **Install Dependencies**
 - For backend:
-cd ../server
-npm install
-npm start
+- cd ../server
+- npm install
+- npm start
 
 - For frontend:
-npm install
-npm start
+- npm install
+- npm start
 
 - The app runs on `http://localhost:3000` (frontend) and `http://localhost:5000` (backend).
 
@@ -53,9 +53,9 @@ npm start
 - View upcoming pet events.
 
 ##Contributors
-**Abu Bakar Siddique** - Documentation
-**Hammad Shahid** - Frontend
-**Abdul Manan** Backend and Database
+- **Abu Bakar Siddique** - Documentation
+- **Hammad Shahid** - Frontend
+- **Abdul Manan** Backend and Database
 
 ## Contributing
 Contributions are welcome! To contribute:
