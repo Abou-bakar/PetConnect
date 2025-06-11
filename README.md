@@ -33,12 +33,12 @@ https://github.com/Abou-bakar/PetConnect.git
 - cd PetConnect
 
 4. **Install Dependencies**
-- For backend:
+- **For backend**:
 - cd ../server
 - npm install
 - npm start
 
-- For frontend:
+- **For frontend**:
 - npm install
 - npm start
 
@@ -52,7 +52,7 @@ https://github.com/Abou-bakar/PetConnect.git
 - Interact with other users through socail network.
 - View upcoming pet events.
 
-##Contributors
+## Contributors
 - **Abu Bakar Siddique** - Documentation
 - **Hammad Shahid** - Frontend
 - **Abdul Manan** Backend and Database
